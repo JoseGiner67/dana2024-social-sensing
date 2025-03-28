@@ -30,7 +30,7 @@ Due to [Twitter's Developer Policy](https://developer.twitter.com/en/developer-t
 - Jupyter Notebook  
 - HuggingFace Transformers  
 - BERTopic  
-- UMAP & HDBSCAN  
+- HDBSCAN  
 - OpenAI API (for GPT-4 and embeddings)
 
 Install required packages using:
