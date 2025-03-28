@@ -10,11 +10,9 @@ We reconstruct the 2024 DANA flood event in Valencia (Spain) using citizen-gener
 
 This repository includes:
 
-- `dana_twitter_analysis.ipynb`:  
-  Preprocessing, geolocation, sentiment analysis, named entity recognition (NER), and topic modeling using Twitter data.
+- `dana_twitter_analysis.ipynb`: Preprocessing, geolocation, sentiment analysis, named entity recognition (NER), and topic modeling using Twitter data.
 
-- `rag_qa_tweets.py`:  
-  Implementation of a Retrieval-Augmented Generation system to process citizen reports and generate structured outputs for crisis management.
+- `rag_qa_tweets.py`: Implementation of a Retrieval-Augmented Generation system to process citizen reports and generate structured outputs for crisis management.
 
 ---
 
