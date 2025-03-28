@@ -1,0 +1,11 @@
+bertopic
+hdbscan
+langchain-openai
+matplotlib
+pandas
+plotly
+pytz
+scikit-learn
+tqdm
+transformers
+wordcloud
