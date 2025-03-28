@@ -13,7 +13,7 @@ This repository includes two main notebooks:
 - `01_social_sensing.ipynb`:  
   Preprocessing, geolocation, sentiment analysis, named entity recognition (NER), and topic modeling using Twitter data.
 
-- `02_rag_pipeline.ipynb`:  
+- `rag_qa_tweets.py`:  
   Implementation of a Retrieval-Augmented Generation system to process citizen reports and generate structured outputs for crisis management.
 
 ---
