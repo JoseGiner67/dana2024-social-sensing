@@ -10,7 +10,7 @@ We reconstruct the 2024 DANA flood event in Valencia (Spain) using citizen-gener
 
 This repository includes two main notebooks:
 
-- `01_social_sensing.ipynb`:  
+- `dana_twitter_analysis.ipynb`:  
   Preprocessing, geolocation, sentiment analysis, named entity recognition (NER), and topic modeling using Twitter data.
 
 - `rag_qa_tweets.py`:  
