@@ -9,3 +9,4 @@ scikit-learn
 tqdm
 transformers
 wordcloud
+faiss-gpu
